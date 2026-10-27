@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SKUPLUGS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://skuplugs.com/
+SKUPlugs provides a no‑code solution to sync inventory, products and orders across major POS and e‑commerce platforms such as Lightspeed, Square, Loyverse, Zoho, Shopify, WooCommerce, Amazon and Walmart. Users can connect their POS, configure mappings, and automate inventory synchronization without writing code, benefiting from a 15‑day free trial and multi‑channel support.
+
+**Areas:** eCommerce · InventorySync · NoCode · POSIntegration · MultiChannel
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://skuplugs.com/)
+- [Pricing](https://skuplugs.com/pricing/)
+- [Blog](https://skuplugs.com/blog/)
+- [Terms of service](https://skuplugs.com/terms-of-service/)
+- [Privacy policy](https://skuplugs.com/privacy-policy/)
+- [GitHub](https://github.com/skuplugs)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/skuplugs/](https://apis.io/providers/skuplugs/).
